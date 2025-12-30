@@ -1,4 +1,6 @@
-package `04String`
+package `02TipeDataTeks`
+
+import kotlin.text.iterator
 
 fun main() {
     val text  = "Kotlin"

@@ -1,4 +1,4 @@
-package `09Arrays`
+package `08Arrays`
 
 fun main() {
     val intArray = intArrayOf(1,2,3,4,5,6,7,8,9,10)

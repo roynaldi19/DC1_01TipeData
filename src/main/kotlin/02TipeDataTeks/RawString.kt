@@ -1,4 +1,4 @@
-package `04String`
+package `02TipeDataTeks`
 
 fun main() {
     val line = """

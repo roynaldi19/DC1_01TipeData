@@ -1,4 +1,4 @@
-package `12StringTempalte`
+package `02TipeDataTeks`
 
 fun main() {
     val name = "Kotlin"

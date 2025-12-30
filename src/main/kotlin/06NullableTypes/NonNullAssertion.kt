@@ -1,4 +1,4 @@
-package `11SafeCallElvisOperator`
+package `06NullableTypes`
 
 fun main() {
     val text: String? = null

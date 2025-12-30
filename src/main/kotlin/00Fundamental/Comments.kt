@@ -1,4 +1,4 @@
-package `01Fundamental`
+package `00Fundamental`
 
 fun main() {
     // Mencetak teks ke layar

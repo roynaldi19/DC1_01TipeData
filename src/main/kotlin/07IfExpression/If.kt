@@ -1,4 +1,4 @@
-package `06IfExpression`
+package `07IfExpression`
 
 fun main() {
     val openHours = 7

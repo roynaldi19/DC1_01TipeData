@@ -1,4 +1,4 @@
-package `08Numbers`
+package `03TipeDataAngka`
 
 fun main() {
     val stringNumber = "23"
