@@ -1,4 +1,4 @@
-package `03Char`
+package `03TipeDataTeks`
 
 fun main() {
     var vocal = 'A'
